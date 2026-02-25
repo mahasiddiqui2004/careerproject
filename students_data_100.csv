@@ -1,0 +1,101 @@
+student_id,student_name,Math_6,Science_6,English_6,Urdu_6,Social Studies_6,Math_7,Science_7,English_7,Urdu_7,Social Studies_7,Math_8,Science_8,English_8,Urdu_8,Social Studies_8,recommended_stream
+S1001,Amna Shah,80,88,71,81,89,94,57,69,86,42,94,66,61,81,72,Computer Science
+S1002,Ahmed Mirza,93,94,52,42,60,85,96,55,73,62,43,96,74,92,50,Biology
+S1003,Zain Butt,70,65,96,52,45,85,43,72,86,89,54,78,61,80,95,Commerce
+S1004,Abdul Rehman Shah,56,67,69,69,76,46,90,93,88,96,84,69,90,92,92,Biology
+S1005,Anaya Rehman,84,66,66,98,90,80,69,60,62,47,84,51,53,47,70,Commerce
+S1006,Umar Aziz,49,86,80,66,58,45,73,88,57,69,89,80,88,47,55,Biology
+S1007,Faizan Ahmed,62,82,74,91,85,47,68,57,95,58,52,98,42,44,81,Biology
+S1008,Ahmed Ali,80,70,42,64,69,86,61,94,62,46,92,58,67,48,82,Computer Science
+S1009,Bilal Butt,60,56,98,72,71,73,65,46,52,72,88,80,55,92,63,Computer Science
+S1010,Maryam Mehmood,64,86,68,71,70,93,53,76,78,46,98,63,79,49,52,Computer Science
+S1011,Ahmed Rehman,52,42,98,83,87,71,91,53,77,79,64,67,78,83,64,Commerce
+S1012,Abdul Moiz Rehman,52,66,93,76,94,88,76,66,76,44,96,85,52,93,42,Computer Science
+S1013,Haris Butt,65,48,54,48,47,76,74,93,60,94,57,66,77,56,87,Commerce
+S1014,Taha Aziz,94,50,82,57,76,96,74,62,61,64,72,58,54,88,78,Computer Science
+S1015,Ayaan Khan,77,65,44,67,82,81,92,77,98,78,52,54,84,70,62,Commerce
+S1016,Hafsa Malik,81,42,80,89,78,93,84,94,59,94,95,61,44,74,67,Computer Science
+S1017,Zara Sheikh,65,85,47,98,65,57,78,64,88,78,57,66,74,93,87,Biology
+S1018,Talha Mirza,44,49,49,93,70,54,53,57,82,51,49,45,47,71,77,Commerce
+S1019,Abdul Hadi Qureshi,63,65,68,90,90,91,44,98,90,51,45,51,91,80,95,Commerce
+S1020,Hafsa Ansari,94,52,50,43,87,83,42,80,55,60,81,44,97,68,64,Commerce
+S1021,Usman Ali,43,92,78,42,94,71,74,86,56,58,45,82,51,77,98,Biology
+S1022,Musa Shah,65,58,74,89,72,60,81,94,72,62,97,86,46,70,42,Computer Science
+S1023,Huzaifa Siddiqui,85,49,92,53,76,58,51,83,42,55,66,59,64,79,95,Commerce
+S1024,Mahnoor Mirza,71,76,83,46,74,97,84,80,94,50,44,88,51,98,96,Biology
+S1025,Hoorain Ahmed,79,76,85,78,93,60,85,55,95,87,73,77,85,74,92,Computer Science
+S1026,Sana Jutt,43,74,65,73,62,69,70,72,95,42,44,88,43,78,81,Biology
+S1027,Hania Shah,62,46,56,96,73,96,54,46,44,92,68,63,54,68,56,Commerce
+S1028,Musa Ali,74,83,95,50,64,67,53,76,57,86,70,75,81,96,62,Commerce
+S1029,Eman Chaudhry,53,80,73,82,74,78,72,64,64,54,73,88,43,74,88,Computer Science
+S1030,Aqsa Mehmood,63,82,73,76,44,67,87,70,98,45,91,49,61,45,50,Computer Science
+S1031,Ibrahim Aziz,85,69,65,60,59,94,43,84,52,42,92,81,42,63,94,Computer Science
+S1032,Abdul Moiz Ali,66,48,82,89,66,64,92,52,53,90,60,90,78,43,50,Biology
+S1033,Ali Butt,90,50,93,57,83,50,91,59,51,81,62,85,50,51,51,Biology
+S1034,Aleena Chaudhry,68,49,90,44,72,53,76,88,73,73,46,60,58,46,93,Commerce
+S1035,Umar Butt,83,53,90,61,95,94,64,53,57,75,59,83,50,51,98,Computer Science
+S1036,Usman Baig,69,75,93,65,44,42,58,50,49,69,69,82,52,74,94,Biology
+S1037,Ayaan Jutt,57,74,53,95,81,42,67,51,79,72,83,78,56,95,67,Biology
+S1038,Amna Siddiqui,56,89,80,97,87,88,49,85,53,49,63,47,65,79,82,Commerce
+S1039,Abdul Wahab Siddiqui,88,96,43,74,65,75,70,58,65,80,62,93,79,54,76,Computer Science
+S1040,Huzaifa Qureshi,92,64,44,65,91,73,67,79,69,67,47,67,96,72,93,Commerce
+S1041,Noor Mirza,85,65,90,93,73,95,51,48,94,75,42,75,76,88,66,Commerce
+S1042,Zara Ali,96,78,78,52,88,89,67,87,49,95,46,97,71,77,67,Biology
+S1043,Mahnoor Malik,93,76,90,90,63,66,75,54,69,95,82,86,72,86,52,Computer Science
+S1044,Hania Butt,98,85,97,49,64,81,92,81,77,44,53,47,90,65,79,Computer Science
+S1045,Abdul Wahab Jutt,44,81,58,77,43,86,82,83,67,91,67,78,46,93,43,Biology
+S1046,Musa Mirza,78,63,90,79,68,94,48,50,49,53,87,98,85,97,48,Computer Science
+S1047,Amna Rehman,92,68,43,81,83,42,45,91,91,42,75,74,91,56,59,Commerce
+S1048,Hamza Ansari,48,76,43,61,43,57,94,68,69,95,90,94,55,70,68,Computer Science
+S1049,Aqsa Ahmed,62,42,69,76,67,80,91,43,69,85,55,63,94,49,75,Commerce
+S1050,Hamza Ahmed,50,76,95,89,58,46,86,46,78,46,67,62,97,46,68,Biology
+S1051,Hoorain Ansari,80,78,64,66,81,63,52,70,82,71,86,47,52,70,58,Commerce
+S1052,Yousuf Mirza,59,88,78,76,74,70,70,78,77,71,68,47,50,88,84,Commerce
+S1053,Hussain Qureshi,45,55,73,66,50,96,97,79,68,98,50,96,75,45,85,Biology
+S1054,Iqra Ansari,66,44,74,70,84,44,77,60,95,58,67,89,53,53,92,Biology
+S1055,Bilal Dogar,55,42,42,59,95,53,66,49,58,89,98,45,76,86,95,Commerce
+S1056,Yousuf Jutt,91,46,60,87,89,67,62,89,50,88,88,71,76,43,65,Computer Science
+S1057,Abdul Hadi Mirza,50,67,43,59,80,57,98,86,74,64,98,52,42,68,66,Computer Science
+S1058,Abdul Rehman Butt,67,96,94,43,70,92,77,42,94,56,63,71,81,72,48,Computer Science
+S1059,Rabia Rehman,94,55,85,95,83,78,51,63,61,78,88,72,63,92,93,Computer Science
+S1060,Hania Mirza,43,80,67,76,96,63,78,93,54,62,97,65,70,92,47,Computer Science
+S1061,Rabia Aziz,61,68,73,57,67,98,50,58,69,55,71,96,49,77,94,Computer Science
+S1062,Faizan Aziz,69,50,47,82,76,70,65,48,89,43,84,50,52,77,65,Commerce
+S1063,Yousuf Siddiqui,88,56,73,77,91,55,76,66,70,52,89,96,82,67,74,Computer Science
+S1064,Hamza Raja,48,56,96,74,66,69,90,86,54,92,58,44,78,84,90,Commerce
+S1065,Maryam Dogar,85,67,45,45,65,46,76,45,87,80,67,92,55,68,70,Biology
+S1066,Umar Ahmed,49,83,96,74,54,88,89,77,76,79,77,72,71,46,84,Computer Science
+S1067,Abdullah Raja,88,54,52,55,48,90,77,47,47,75,42,81,76,61,63,Biology
+S1068,Amna Malik,76,92,97,62,98,71,59,72,59,79,49,78,62,52,67,Biology
+S1069,Aiza Sheikh,55,73,58,89,77,87,90,60,92,91,90,77,78,51,69,Computer Science
+S1070,Mahnoor Ali,58,80,79,61,86,93,80,85,46,75,76,65,46,81,91,Computer Science
+S1071,Musa Baig,77,90,65,97,61,46,73,95,88,59,93,72,60,79,62,Computer Science
+S1072,Mahnoor Jutt,91,93,46,49,42,53,65,80,66,71,56,47,55,47,90,Commerce
+S1073,Khadija Mirza,81,73,93,48,49,57,64,68,43,56,88,43,67,49,48,Commerce
+S1074,Eman Khan,45,45,75,44,87,67,73,51,51,68,97,61,45,64,58,Computer Science
+S1075,Anaya Shah,43,71,47,58,57,67,78,67,97,92,63,69,66,88,61,Biology
+S1076,Hafsa Mirza,47,78,63,74,55,89,53,60,71,75,55,52,86,67,82,Commerce
+S1077,Aleena Ansari,95,64,52,89,53,62,90,80,91,93,67,45,83,87,90,Computer Science
+S1078,Abdullah Chaudhry,83,80,89,53,92,80,96,44,86,98,69,56,66,84,61,Computer Science
+S1079,Faizan Malik,45,86,57,92,64,77,54,86,46,79,64,47,59,53,95,Commerce
+S1080,Ayesha Khan,95,56,74,63,56,74,64,54,96,74,55,95,81,67,63,Biology
+S1081,Sana Mirza,70,84,50,96,69,71,66,91,97,65,65,90,49,54,69,Biology
+S1082,Maryam Malik,59,70,47,63,75,78,76,69,74,56,43,71,80,81,81,Biology
+S1083,Maryam Shah,67,77,57,87,43,64,82,61,95,71,86,97,81,59,90,Computer Science
+S1084,Amna Chaudhry,85,54,70,71,73,51,71,69,42,96,67,79,55,66,48,Biology
+S1085,Aqsa Wattoo,75,73,44,79,64,95,58,49,59,83,55,92,73,74,42,Computer Science
+S1086,Mahnoor Qureshi,51,48,61,79,63,46,90,82,73,92,97,98,92,88,73,Computer Science
+S1087,Abdul Hadi Siddiqui,77,92,77,86,92,77,61,80,88,58,92,43,79,81,54,Commerce
+S1088,Hania Wattoo,55,63,60,92,66,75,89,42,90,46,48,56,74,84,71,Commerce
+S1089,Muhammad Mehmood,72,69,67,95,63,93,66,44,52,70,44,52,64,53,64,Commerce
+S1090,Saad Dogar,89,43,44,49,63,72,63,54,62,45,88,49,56,85,92,Commerce
+S1091,Ahmed Shah,56,83,60,68,90,51,54,69,67,51,64,67,74,77,97,Commerce
+S1092,Ibrahim Chaudhry,49,86,61,68,93,60,60,98,66,97,87,92,66,89,60,Computer Science
+S1093,Zain Ahmed,55,98,73,75,83,73,90,90,63,58,84,86,58,45,73,Computer Science
+S1094,Zain Aziz,64,94,48,62,47,42,77,66,68,51,88,85,74,46,71,Biology
+S1095,Umar Ali,98,47,93,71,56,97,53,97,90,58,86,46,88,97,70,Commerce
+S1096,Sana Dogar,81,69,82,74,95,46,82,74,54,61,59,47,96,78,90,Commerce
+S1097,Minahil Ali,62,69,74,69,84,86,60,79,74,65,79,67,43,49,86,Computer Science
+S1098,Hafsa Rehman,57,85,81,88,78,45,53,94,75,46,76,95,55,83,70,Biology
+S1099,Aleena Raja,86,85,80,74,74,57,50,47,82,75,92,45,94,90,71,Commerce
+S1100,Abdul Rehman Dogar,59,61,59,46,49,65,48,85,76,47,56,60,81,69,57,Commerce

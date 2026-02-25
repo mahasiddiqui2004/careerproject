@@ -1,0 +1,8 @@
+# These are auto-generated from scratch - no need to upload
+training_data.csv
+recommendations_log.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
